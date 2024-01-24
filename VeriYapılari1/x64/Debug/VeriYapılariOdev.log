@@ -1,0 +1,4 @@
+﻿  VeriYapılariOdev.cpp
+C:\Users\aliag\source\repos\VeriYapılariOdev\VeriYapılariOdev.cpp(205,23): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\aliag\source\repos\VeriYapılariOdev\VeriYapılariOdev.cpp(101): warning C4715: 'listeYigindanCikar': tüm denetim yolları değer döndürmez
+  VeriYapılariOdev.vcxproj -> C:\Users\aliag\source\repos\VeriYapılariOdev\x64\Debug\VeriYapılariOdev.exe
